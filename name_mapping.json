@@ -1,0 +1,16 @@
+{
+    "eid": "subject_id",
+    "21022-0.0": "age",
+    "31-0.0": "gender",
+    "20191-0.0": "FI_score",
+    "20240-0.0": "Maximum digits remembered correctly",
+    "mean_20131": "Mean Correct Pair", 
+    "mean_20132": "Mean Incorrect Pair", 
+    "mean_20133": "Mean Completion Time",
+    "20159-0.0": "Number of symbol digit matches made correctly",
+    "20195-0.0": "Number of symbol digit matches attempted",
+    "20156-0.0": "Total time taken for nuemric trail",
+    "20157-0.0": "Total time taken for alphanumeric trail",
+    "20247-0.0": "Total error traversing numerical path",
+    "20248-0.0": "total error traversing alphanumerical path"
+}
