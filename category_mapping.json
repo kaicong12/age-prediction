@@ -1,0 +1,7 @@
+{
+    "fluid_intelligence": ["20191-0.0"],
+    "trail_making": ["20156-0.0", "20157-0.0", "20247-0.0", "20248-0.0"],
+    "pair_matching": ["mean_20131", "mean_20132", "mean_20133"],
+    "symbol_digit_substitution": ["20159-0.0", "20195-0.0"],
+    "numeric_memory": ["20240-0.0"]
+}

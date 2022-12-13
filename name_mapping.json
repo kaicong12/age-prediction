@@ -7,10 +7,10 @@
     "mean_20131": "Mean Correct Pair", 
     "mean_20132": "Mean Incorrect Pair", 
     "mean_20133": "Mean Completion Time",
-    "20159-0.0": "Number of symbol digit matches made correctly",
-    "20195-0.0": "Number of symbol digit matches attempted",
-    "20156-0.0": "Total time taken for nuemric trail",
-    "20157-0.0": "Total time taken for alphanumeric trail",
-    "20247-0.0": "Total error traversing numerical path",
-    "20248-0.0": "total error traversing alphanumerical path"
+    "20159-0.0": "Correct Digits matched",
+    "20195-0.0": "Digit Match attempts",
+    "20156-0.0": "Total time (numeric trail)",
+    "20157-0.0": "Total time (alphanumeric trail)",
+    "20247-0.0": "Total error (numeric path)",
+    "20248-0.0": "Total error (alphanumeric path)"
 }
