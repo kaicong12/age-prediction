@@ -6,7 +6,7 @@
     "20240-0.0": "Maximum digits remembered correctly",
     "mean_20131": "Mean Correct Pair", 
     "mean_20132": "Mean Incorrect Pair", 
-    "mean_20133": "Mean Completion Time",
+    "mean_20133": "Mean Completion Time",  
     "20159-0.0": "Correct Digits matched",
     "20195-0.0": "Digit Match attempts",
     "20156-0.0": "Total time (numeric trail)",
@@ -14,3 +14,4 @@
     "20247-0.0": "Total error (numeric path)",
     "20248-0.0": "Total error (alphanumeric path)"
 }
+// mean completion time refers to the pair matching mean completion time
